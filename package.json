@@ -6,14 +6,18 @@
   "bin": {
     "shove": "index.js"
   },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "keywords": [],
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "minimist": "^1.2.0",
     "mkdirp": "^0.5.1"
+  },
+  "homepage": "https://github.com/jcpst/shove",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jcpst/shove.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jcpst/shove/issues"
   }
 }
