@@ -6,7 +6,12 @@
   "bin": {
     "shove": "index.js"
   },
-  "keywords": [],
+  "keywords": [
+    "cli",
+    "mkdir",
+    "pipe",
+    "stream"
+  ],
   "author": "",
   "license": "MIT",
   "dependencies": {
