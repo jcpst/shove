@@ -1,6 +1,6 @@
 {
   "name": "shove",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "Shove streams into files in directories that don't yet exist.",
   "main": "index.js",
   "bin": {
